@@ -1,0 +1,12 @@
+# Ignore large and unnecessary files
+models/
+rag_venv/
+data/
+*.pyc
+__pycache__/
+vectorstore/
+*.gguf
+*.json
+*.jsonl
+*.bin
+*.tar.gz
