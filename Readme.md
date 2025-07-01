@@ -28,7 +28,7 @@ health_rag/
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Chat Interface** — Responsive chat UI (mobile-ready) that mimics WhatsApp-style assistant layout.
 - **Contextual Responses** — Uses document retrieval to provide answers grounded in source material.
@@ -138,7 +138,6 @@ Sources:
 
 ---
 
-## Author
-
-Developed by **Vamsee Krishna Kasani**  
+### Author
+- Developed by **Vamsee Krishna Kasani**  
 ---
